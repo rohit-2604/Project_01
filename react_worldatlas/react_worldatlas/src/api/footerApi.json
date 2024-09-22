@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Kolkata, West Bengal"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9876543219"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@codeXrohit.com"
+    }
+  ]
